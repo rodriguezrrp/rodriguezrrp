@@ -1,4 +1,13 @@
+<!--
 ### Hi there 👋
+-->
+
+Always been a learn-by-doing person. Currently exploring new web and application frameworks.
+
+You might find me
+- 🧑‍🤝‍🧑🗺️ contributing to the [interactive map](https://github.com/brookjeynes/slime-rancher-2-interactive-map/) for the game Slime Rancher 2
+- 💾🐧 developing a webpage-based [save file editor](https://github.com/rodriguezrrp/penguinheist-save-editor) utility for the game Penguin Heist (React rewrite after it's up-to-date)
+- 🌱 tinkering with something new
 
 <!--
 **rodriguezrrp/rodriguezrrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
