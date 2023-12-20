@@ -7,7 +7,7 @@ Always been a learn-by-doing person. Currently exploring new web and application
 You might find me
 - 🧑‍🤝‍🧑🗺️ contributing to the [interactive map](https://github.com/brookjeynes/slime-rancher-2-interactive-map/) for the game Slime Rancher 2 (map written in React)
 - 💾🐧 developing a webpage-based [save file editor](https://github.com/rodriguezrrp/penguinheist-save-editor) utility for the game Penguin Heist (still in an early beta)
-- 🕸️🔌 experimenting using Web Sockets with Vercel for e.g. some hosted real-time card game? (not available yet)
+<!-- - 🕸️🔌 experimenting using Web Sockets with Vercel for e.g. some hosted real-time card game? (not available yet) -->
 - 🌱 tinkering with something new
 
 <!--
